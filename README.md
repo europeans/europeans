@@ -1,7 +1,7 @@
 <h1 align="center">Greetings! I'm Europeans</h1>
 <h3 align="center">Software and Web Developer</h3>
 
-<p align="center">- 🌱 I’m currently learning **game exploitation**</p>
+<p align="center">- 🌱 I’m currently learning <b>game exploitation</b></p>
 
 <h3 align="center">Socials</h3>
 <p align="center">

@@ -13,4 +13,4 @@
 
 #
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=europeans&label=Profile%20views&color=0e75b6&style=flat" alt="europeans" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=europeans&label=Profile%20views&color=0e75b6&style=flat" alt="europeans" /> </p>

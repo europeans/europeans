@@ -5,7 +5,7 @@
 
 <h3 align="center">Socials</h3>
 <p align="center">
-<a href="https://www.youtube.com/c/kunty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kunty" height="30" width="40" /></a><a href="https://solo.to/data" target="blank"><img align="center" src="https://cdx.solo.to/images/logo/solo-text-logo-color.svg" alt="data" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/kunty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kunty" height="30" width="40" /></a><a href="https://solo.to/data" target="blank"><img align="center" src="https://cdx.solo.to/images/logo/solo-icon.svg" alt="data" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
